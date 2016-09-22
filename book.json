@@ -1,19 +1,11 @@
 {
     "plugins": [
     	"expandable-chapters", 
-    	"sitemap",
-    	"github-buttons"
+    	"github"
     ],
     "pluginsConfig": {
-        "sitemap": {
-            "hostname": "https://jrwells.gitbooks.io/autodesk-formit-360-web-help/content/"
-        },
-        "github-buttons": {
-			"repo": "modelab/autodesk-formit-360-web-help",
-			"types": [
-				"star",
-				"watch"
-			]
+        "github": {
+			"url": "https://github.com/modelab/autodesk-formit-360-web-help",
     	}
     }
 }
