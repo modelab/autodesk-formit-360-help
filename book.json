@@ -1,5 +1,7 @@
 {
-    "plugins": ["gitbook-plugin-preprocessor@git+https://github.com/jrwells/gitbook-plugin-preprocessor.git"],
+    "plugins": [
+    	"gitbook-plugin-preprocessor@git+https://github.com/jrwells/gitbook-plugin-preprocessor.git#0.0.3"
+    ],
     "pluginsConfig": {
         "scripts": {
             "init": [
