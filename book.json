@@ -1,9 +1,9 @@
 {
-    "plugins": ["scripts"],
+    "plugins": ["gitbook-plugin-preprocessor@git+https://github.com/jrwells/gitbook-plugin-preprocessor.git"],
     "pluginsConfig": {
         "scripts": {
-            "files": [
-                "./myscript.js"
+            "init": [
+                "myscript.js"
             ]
         }
     }
