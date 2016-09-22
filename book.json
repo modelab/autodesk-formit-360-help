@@ -1,5 +1,5 @@
 {
-    "plugins": ["toggle-chapters", "sitemap"],
+    "plugins": ["expandable-chapters", "sitemap"],
     "pluginsConfig": {
         "sitemap": {
             "hostname": "https://jrwells.gitbooks.io/autodesk-formit-360-web-help/content/"
