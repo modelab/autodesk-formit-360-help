@@ -1,11 +1,5 @@
 {
     "plugins": [
-    	"expandable-chapters", 
-    	"github"
-    ],
-    "pluginsConfig": {
-        "github": {
-			"url": "https://github.com/modelab/autodesk-formit-360-web-help"
-    	}
-    }
+    	"expandable-chapters"
+    ]
 }
