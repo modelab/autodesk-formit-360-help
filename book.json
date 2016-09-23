@@ -6,9 +6,6 @@
         "scripts": {
             "init": [
                 "myinitscript.js"
-            ],
-            "finish": [
-            	"myfinishscript.js"
             ]
         }
     }
