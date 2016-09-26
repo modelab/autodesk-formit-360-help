@@ -6,7 +6,9 @@ const ENCODING = 'utf8';
 
 // Revert all local changes 
 // so that we can append the sub-summary files to the root summary file
-//exec('git reset --hard HEAD');
+
+console.log('git reset');
+exec('git reset --hard HEAD');
 
 var rootDir = __dirname + '/../';
 var summaryFile = '/SUMMARY.md';
@@ -16,8 +18,11 @@ var submodulesFile = '.gitmodules';
 var submoduleRegex = /\[submodule [\w/\-"._]+\][\s]+path\s=\s([\w\-. /]+)/g;
 var pathRegex = /[submodule [\w/\-".]+\][\s]+path\s=\s/g
 
+console.log('init submodules');
 // Clone up to date repos on all submodules/books
 exec('git submodule init && git submodule update');
+
+console.log(fs.readDirSync(rootDir));
 
 // Parse paths from .gitmodules file
 try {
