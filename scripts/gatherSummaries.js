@@ -5,8 +5,6 @@ var path = require('path');
 
 const ENCODING = 'utf8';
 
-console.log(__dirname);
-
 // Revert all local changes 
 // so that we can append the sub-summary files to the root summary file
 
@@ -15,6 +13,11 @@ console.log(__dirname);
 var rootDir = __dirname + '/../../';
 var summaryFile = '/SUMMARY.md';
 var readmeFile = '/README.md';
+
+var summary_template = 'SUMMARY_TEMPLATE.md';
+
+var template = fs.readFileSync(rootDir + summary_template, ENCODING)
+fs.writeFileSync(rootDir + 'SUMMARY.md', template);
 
 var booksDir = 'books/';
 
@@ -50,6 +53,3 @@ for (var i = 0; i < books.length; i++) {
 		console.log(err);
 	}
 }
-
-var finalSummary = fs.readFileSync(rootDir + 'SUMMARY.md', ENCODING);
-console.log(finalSummary);
