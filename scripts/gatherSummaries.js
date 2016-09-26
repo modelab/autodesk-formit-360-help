@@ -30,6 +30,7 @@ var poundRegex = /#\ /g;
 var dashRegex = /\-\ /g;
 var starRegex = /\*\ /g;
 var linkRegex = /\]\(/g;
+var blanklineRegex = /\n\s*\n/g
 
 // Parse each submodule's summary file and append to root summary file
 for (var i = 0; i < books.length; i++) {
@@ -42,7 +43,8 @@ for (var i = 0; i < books.length; i++) {
 				s = s + '](README.md)';
 				return s;
 			});
-			summary = summary.replace(dashRegex, '\t- ')
+			summary = summary.replace(blanklineRegex, '')
+							 .replace(dashRegex, '\t- ')
 							 .replace(starRegex, '\t* ')
 							 .replace(linkRegex, '](' + booksDir + books[i] + '/');
 			fs.appendFileSync(rootDir + 'SUMMARY.md', summary);
