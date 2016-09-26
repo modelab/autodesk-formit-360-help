@@ -43,7 +43,7 @@ for (var i = 0; i < books.length; i++) {
 				s = s + '](README.md)';
 				return s;
 			});
-			summary = summary.replace(blanklineRegex, '')
+			summary = summary.replace(blanklineRegex, '\n')
 							 .replace(dashRegex, '\t- ')
 							 .replace(starRegex, '\t* ')
 							 .replace(linkRegex, '](' + booksDir + books[i] + '/');
