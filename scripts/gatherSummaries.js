@@ -20,7 +20,8 @@ var pathRegex = /[submodule [\w/\-".]+\][\s]+path\s=\s/g
 
 console.log('init submodules');
 // Clone up to date repos on all submodules/books
-exec('git submodule init && git submodule update');
+exec('git submodule init');
+exec('git submodule update');
 
 // Parse paths from .gitmodules file
 try {
