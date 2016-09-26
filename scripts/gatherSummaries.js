@@ -27,7 +27,6 @@ var books = fs.readdirSync(rootDir + booksDir).filter(function(file) {
 
 var titleRegex = /#\ [\w\ ]+/g;
 var poundRegex = /#\ /g;
-var blanklineRegex = /\s*[\r\n]/g
 var dashRegex = /\-\ /g;
 var starRegex = /\*\ /g;
 var linkRegex = /\]\(/g;
@@ -43,8 +42,7 @@ for (var i = 0; i < books.length; i++) {
 				s = s + '](' + booksDir + books[i] + readmeFile + ')';
 				return s;
 			});
-			summary = summary.replace(blanklineRegex, '')
-							 .replace(dashRegex, '\t- ')
+			summary = summary.replace(dashRegex, '\t- ')
 							 .replace(starRegex, '\t* ')
 							 .replace(linkRegex, '](' + booksDir + books[i] + '/');
 			fs.appendFileSync(rootDir + 'SUMMARY.md', summary);
