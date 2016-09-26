@@ -10,7 +10,9 @@ console.log(__dirname);
 // Revert all local changes 
 // so that we can append the sub-summary files to the root summary file
 
-var rootDir = __dirname + '/../';
+// var rootDir = __dirname + '/../';
+// For precommit hook
+var rootDir = __dirname + '/../../';
 var summaryFile = '/SUMMARY.md';
 var readmeFile = '/README.md';
 
