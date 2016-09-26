@@ -5,12 +5,14 @@ var path = require('path');
 
 const ENCODING = 'utf8';
 
+console.log('asdasdasda');
+
 // Revert all local changes 
 // so that we can append the sub-summary files to the root summary file
 
-// var rootDir = __dirname + '/../';
+var rootDir = __dirname + '/../';
 // For precommit hook
-var rootDir = __dirname + '/../../';
+// var rootDir = __dirname + '/../../';
 var summaryFile = '/SUMMARY.md';
 var readmeFile = '/README.md';
 
