@@ -1,6 +1,7 @@
 # FormIt Help
 
-	- [Web Help](books/web-help/README.md)  	* [Welcome to Autodesk FormIt 360 and FormIt 360 Pro](books/web-help/Welcome to Autodesk FormIt 360 and FormIt 360 Pro.md)
+	- [Web Help](books/web-help/README.md)
+  	* [Welcome to Autodesk FormIt 360 and FormIt 360 Pro](books/web-help/Welcome to Autodesk FormIt 360 and FormIt 360 Pro.md)
   	- [User Interaction](books/web-help/User Interaction/README.md)
     	* [Context Menu and Right-Side Palettes](books/web-help/User Interaction/Context Menu and Right-Side Palettes.md)
     	* [User Interface Tools](books/web-help/User Interaction/User Interface Tools.md)
