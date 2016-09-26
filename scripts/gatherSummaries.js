@@ -5,6 +5,8 @@ var path = require('path');
 
 const ENCODING = 'utf8';
 
+console.log(__dirname);
+
 // Revert all local changes 
 // so that we can append the sub-summary files to the root summary file
 
