@@ -1,5 +1,5 @@
 var readline = require('readline');
-var exec = require('child_process').exec;
+var exec = require('child_process').execSync;
 var fs = require('fs');
 
 const ENCODING = 'utf8';
