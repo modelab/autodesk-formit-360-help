@@ -7,10 +7,6 @@ const ENCODING = 'utf8';
 // Revert all local changes 
 // so that we can append the sub-summary files to the root summary file
 
-console.log(fs.readdirSync(__dirname));
-console.log(fs.readdirSync(__dirname + '/../../../'));
-// exec('git reset --hard HEAD');
-
 var rootDir = __dirname + '/../';
 var summaryFile = '/SUMMARY.md';
 var readmeFile = '/README.md';
@@ -18,10 +14,6 @@ var readmeFile = '/README.md';
 var submodulesFile = '.gitmodules';
 var submoduleRegex = /\[submodule [\w/\-"._]+\][\s]+path\s=\s([\w\-. /]+)/g;
 var pathRegex = /[submodule [\w/\-".]+\][\s]+path\s=\s/g
-
-// Clone up to date repos on all submodules/books
-// exec('git submodule init && git submodule update');
-exec('git clone https://github.com/modelab/autodesk-formit-360-web-help.git');
 
 // Parse paths from .gitmodules file
 try {
