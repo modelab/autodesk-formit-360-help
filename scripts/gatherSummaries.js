@@ -22,7 +22,7 @@ console.log('init submodules');
 // Clone up to date repos on all submodules/books
 exec('git submodule init && git submodule update');
 
-console.log(fs.readDirSync(rootDir));
+console.log(fs.readdirSync(rootDir));
 
 // Parse paths from .gitmodules file
 try {
