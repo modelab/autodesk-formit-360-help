@@ -7,7 +7,6 @@ const ENCODING = 'utf8';
 // Revert all local changes 
 // so that we can append the sub-summary files to the root summary file
 
-console.log('git reset');
 exec('git reset --hard HEAD');
 
 var rootDir = __dirname + '/../';
@@ -18,10 +17,8 @@ var submodulesFile = '.gitmodules';
 var submoduleRegex = /\[submodule [\w/\-"._]+\][\s]+path\s=\s([\w\-. /]+)/g;
 var pathRegex = /[submodule [\w/\-".]+\][\s]+path\s=\s/g
 
-console.log('init submodules');
 // Clone up to date repos on all submodules/books
-exec('git submodule init');
-exec('git submodule update');
+exec('git submodule init && git submodule update');
 
 // Parse paths from .gitmodules file
 try {
@@ -46,7 +43,6 @@ for (var i = 0; i < paths.length; i++) {
 	try {
 		var submoduleSummaryFile = rootDir + paths[i] + summaryFile;
 		if (fs.statSync(submoduleSummaryFile)) {
-			console.log(fs.readdirSync(rootDir + paths[i]));
 			var summary = fs.readFileSync(submoduleSummaryFile, ENCODING);
 			summary = summary.replace(titleRegex, function(s) {
 				s = s.replace(poundRegex, '- [');
