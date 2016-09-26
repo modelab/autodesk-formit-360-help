@@ -5,7 +5,7 @@
     "pluginsConfig": {
         "scripts": {
             "init": [
-                "myinitscript.js"
+                "gatherSummaries.js"
             ]
         }
     }
