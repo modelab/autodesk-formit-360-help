@@ -39,11 +39,11 @@ for (var i = 0; i < books.length; i++) {
 		if (fs.statSync(bookSummaryFile)) {
 			var summary = fs.readFileSync(bookSummaryFile, ENCODING);
 			summary = summary.replace(blanklineRegex, '\n')
-							 .replace(dashRegex, '\s\s- ')
-							 .replace(starRegex, '\s\s* ')
+							 .replace(dashRegex, '  - ')
+							 .replace(starRegex, '  * ')
 							 .replace(linkRegex, '](' + booksDir + books[i] + '/')
 							 .replace(titleRegex, function(s) {
-								s = s.replace(poundRegex, '\s\s- [');
+								s = s.replace(poundRegex, '  - [');
 								s = s + '](' + booksDir + books[i] + '/README.md' + ')';
 								return s;
 							 });
