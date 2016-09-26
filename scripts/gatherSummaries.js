@@ -1,6 +1,7 @@
 var readline = require('readline');
 var exec = require('child_process').execSync;
 var fs = require('fs');
+var path = require('path');
 
 const ENCODING = 'utf8';
 
