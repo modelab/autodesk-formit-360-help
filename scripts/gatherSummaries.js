@@ -36,10 +36,10 @@ for (var i = 0; i < books.length; i++) {
 				s = s + '](' + booksDir + books[i] + readmeFile + ')';
 				return s;
 			});
-			summary = summary.replace(blanklineRegex, '');
-			summary = summary.replace(dashRegex, '\t- ');
-			summary = summary.replace(starRegex, '\t* ');
-			summary = summary.replace(linkRegex, '](' + booksDir + books[i] + '/');
+			summary = summary.replace(blanklineRegex, '')
+							 .replace(dashRegex, '\t- ')
+							 .replace(starRegex, '\t* ')
+							 .replace(linkRegex, '](' + booksDir + books[i] + '/');
 			fs.appendFileSync(rootDir + 'SUMMARY.md', summary);
 		}
 	} catch(err) {
