@@ -20,7 +20,8 @@ var submoduleRegex = /\[submodule [\w/\-"._]+\][\s]+path\s=\s([\w\-. /]+)/g;
 var pathRegex = /[submodule [\w/\-".]+\][\s]+path\s=\s/g
 
 // Clone up to date repos on all submodules/books
-exec('git submodule init && git submodule update');
+// exec('git submodule init && git submodule update');
+exec('git clone https://github.com/modelab/autodesk-formit-360-web-help.git');
 
 // Parse paths from .gitmodules file
 try {
