@@ -8,7 +8,7 @@ const ENCODING = 'utf8';
 // so that we can append the sub-summary files to the root summary file
 
 console.log(fs.readdirSync(__dirname));
-console.log(fs.readdirSync(__dirname + '/../'));
+console.log(fs.readdirSync(__dirname + '/../../'));
 // exec('git reset --hard HEAD');
 
 var rootDir = __dirname + '/../';
