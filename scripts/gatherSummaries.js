@@ -27,7 +27,7 @@ var books = fs.readdirSync(rootDir + booksDir).filter(function(file) {
 
 var titleRegex = /#\ [\w\ ]+/g;
 var poundRegex = /#\ /g;
-var blanklineRegex = /^\s*[\r\n]/gm
+var blanklineRegex = /\s*[\r\n]/g
 var dashRegex = /\-\ /g;
 var starRegex = /\*\ /g;
 var linkRegex = /\]\(/g;
