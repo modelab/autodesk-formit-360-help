@@ -9,7 +9,7 @@ const ENCODING = 'utf8';
 
 console.log(fs.readdirSync(__dirname));
 console.log(fs.readdirSync(__dirname + '/../'));
-exec('git reset --hard HEAD');
+// exec('git reset --hard HEAD');
 
 var rootDir = __dirname + '/../';
 var summaryFile = '/SUMMARY.md';
