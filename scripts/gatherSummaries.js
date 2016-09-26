@@ -5,8 +5,6 @@ var path = require('path');
 
 const ENCODING = 'utf8';
 
-console.log('Force commit');
-
 // Revert all local changes 
 // so that we can append the sub-summary files to the root summary file
 
@@ -40,15 +38,15 @@ for (var i = 0; i < books.length; i++) {
 		var bookSummaryFile = rootDir + booksDir + books[i] + summaryFile;
 		if (fs.statSync(bookSummaryFile)) {
 			var summary = fs.readFileSync(bookSummaryFile, ENCODING);
-			summary = summary.replace(titleRegex, function(s) {
-				s = s.replace(poundRegex, '- [');
-				s = s + '](README.md)';
-				return s;
-			});
 			summary = summary.replace(blanklineRegex, '\n')
 							 .replace(dashRegex, '\t- ')
 							 .replace(starRegex, '\t* ')
-							 .replace(linkRegex, '](' + booksDir + books[i] + '/');
+							 .replace(linkRegex, '](' + booksDir + books[i] + '/')
+							 .replace(titleRegex, function(s) {
+								s = s.replace(poundRegex, '\t- [');
+								s = s + '](' + booksDir + books[i] + '/README.md' + ')';
+								return s;
+							 });
 			fs.appendFileSync(rootDir + 'SUMMARY.md', summary);
 		}
 	} catch(err) {
