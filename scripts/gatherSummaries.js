@@ -26,24 +26,24 @@ var blanklineRegex = /^\s*[\r\n]/gm
 var dashRegex = /\-\ /g;
 var starRegex = /\*\ /g;
 
-// // Parse each submodule's summary file and append to root summary file
-// for (var i = 0; i < paths.length; i++) {
-// 	try {
-// 		var submoduleSummaryFile = rootDir + paths[i] + summaryFile;
-// 		if (fs.statSync(submoduleSummaryFile)) {
-// 			var summary = fs.readFileSync(submoduleSummaryFile, ENCODING);
-// 			summary = summary.replace(titleRegex, function(s) {
-// 				s = s.replace(poundRegex, '- [');
-// 				s = s + '](' + paths[i] + readmeFile + ')';
-// 				console.log(s);
-// 				return s;
-// 			});
-// 			summary = summary.replace(blanklineRegex, '');
-// 			summary = summary.replace(dashRegex, '\t- ');
-// 			summary = summary.replace(starRegex, '\t* ');
-// 			fs.appendFileSync(rootDir + 'SUMMARY.md', summary);
-// 		}
-// 	} catch(err) {
-// 		console.log(err);
-// 	}
-// }
+// Parse each submodule's summary file and append to root summary file
+for (var i = 0; i < books.length; i++) {
+	try {
+		var bookSummaryFile = rootDir + booksDir + books[i] + summaryFile;
+		if (fs.statSync(bookSummaryFile)) {
+			var summary = fs.readFileSync(bookSummaryFile, ENCODING);
+			summary = summary.replace(titleRegex, function(s) {
+				s = s.replace(poundRegex, '- [');
+				s = s + '](' + paths[i] + readmeFile + ')';
+				console.log(s);
+				return s;
+			});
+			summary = summary.replace(blanklineRegex, '');
+			summary = summary.replace(dashRegex, '\t- ');
+			summary = summary.replace(starRegex, '\t* ');
+			fs.appendFileSync(rootDir + 'SUMMARY.md', summary);
+		}
+	} catch(err) {
+		console.log(err);
+	}
+}
