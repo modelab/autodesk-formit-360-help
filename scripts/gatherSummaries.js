@@ -22,8 +22,6 @@ console.log('init submodules');
 // Clone up to date repos on all submodules/books
 exec('git submodule init && git submodule update');
 
-console.log(fs.readdirSync(rootDir));
-
 // Parse paths from .gitmodules file
 try {
 	var gitmodules = fs.readFileSync(rootDir + submodulesFile, ENCODING);
@@ -47,8 +45,8 @@ for (var i = 0; i < paths.length; i++) {
 	try {
 		var submoduleSummaryFile = rootDir + paths[i] + summaryFile;
 		if (fs.statSync(submoduleSummaryFile)) {
+			console.log(fs.readdirSync(rootDir + paths[i]));
 			var summary = fs.readFileSync(submoduleSummaryFile, ENCODING);
-			console.log(summary);
 			summary = summary.replace(titleRegex, function(s) {
 				s = s.replace(poundRegex, '- [');
 				s = s + '](' + paths[i] + readmeFile + ')';
