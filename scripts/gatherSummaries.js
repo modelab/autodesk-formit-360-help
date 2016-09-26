@@ -39,7 +39,7 @@ for (var i = 0; i < books.length; i++) {
 			var summary = fs.readFileSync(bookSummaryFile, ENCODING);
 			summary = summary.replace(titleRegex, function(s) {
 				s = s.replace(poundRegex, '- [');
-				s = s + '](' + booksDir + books[i] + readmeFile + ')';
+				s = s + '](' + readmeFile + ')';
 				return s;
 			});
 			summary = summary.replace(dashRegex, '\t- ')
