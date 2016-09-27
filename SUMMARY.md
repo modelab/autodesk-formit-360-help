@@ -106,7 +106,7 @@
         * [Place Content](books/ios-help/Manage Your Data/Content Libraries/Place Content.md)
       * [Revit Files](books/ios-help/Manage Your Data/Revit Files.md)
       * [FormIt 360 Converter](books/ios-help/Manage Your Data/FormIt 360 Converter.md)
-  - [autodesk](books/web-help/README.md)-formit-360-web-help
+  - [Web Help](books/web-help/README.md)
     * [Welcome to Autodesk FormIt 360 and FormIt 360 Pro](books/web-help/Welcome to Autodesk FormIt 360 and FormIt 360 Pro.md)
     - [User Interaction](books/web-help/User Interaction/README.md)
       * [Context Menu and Right-Side Palettes](books/web-help/User Interaction/Context Menu and Right-Side Palettes.md)
