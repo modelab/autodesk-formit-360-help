@@ -10,7 +10,7 @@ Choose the appearance style that best suits your purpose.
 
 #### Topics in this section
 
-* [Visual Format Options ](Visual Format Options.md)
+* [Visual Format Options ](../Visual Format Options.md)
     
     Description of choices for visual style.
 

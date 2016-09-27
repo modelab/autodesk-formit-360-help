@@ -12,10 +12,10 @@ Push or pull a face, or imprint new shapes on existing ones, or change create ne
 
 #### Topics in this section
 
-* [ Modify: Tilt, Array, Copy/Paste](Modify Tilt, Array, Copy-Paste.md)
+* [ Modify: Tilt, Array, Copy/Paste](../Modify Tilt, Array, Copy-Paste.md)
     
     Create more complex designs by making alterations to previously drawn shapes.
-* [Modify: Boolean Operations](Modify Boolean Operations.md)
+* [Modify: Boolean Operations](../Modify Boolean Operations.md)
     
     Use Join and Cut operations to alter objects.
 
