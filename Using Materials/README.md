@@ -23,10 +23,10 @@ When applied to the sketch, materials will be added to a list of already used ma
 
 #### Topics in this section
 
-* [Create a Material](Create a Material.md)
+* [Create a Material](../Create a Material.md)
     
     Use the Material Editor to create new materials to use in your scene.
-* [Edit a Material](Edit a Material.md)
+* [Edit a Material](../Edit a Material.md)
     
     Use the Material Editor to make materials appear exactly as you want.
 

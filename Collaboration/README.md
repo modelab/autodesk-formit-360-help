@@ -24,19 +24,19 @@ In addition to simultaneous collaboration through shared sessions, you can share
 
 #### See Also
 
-* [Saving Your Work ](../Manage Your Data/Saving Your Work.md)
+* [Saving Your Work ](../../Manage Your Data/Saving Your Work.md)
 
   
 
 #### Topics in this section
 
-* [Start and Stop Collaborative Sessions](Start and Stop Collaborative Sessions.md)
+* [Start and Stop Collaborative Sessions](../Start and Stop Collaborative Sessions.md)
     
     Invite other people to work on the same design project.
-* [Joining a Session](Joining a Session.md)
+* [Joining a Session](../Joining a Session.md)
     
     Become part of a collaboration.
-* [Chat with Collaborators ](Chat with Collaborators.md)
+* [Chat with Collaborators ](../Chat with Collaborators.md)
     
     Engage in dialog as you design.
 

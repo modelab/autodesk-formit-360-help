@@ -26,24 +26,24 @@ To create more complex designs after sketching a shape or placing a primitive, y
 
 #### See Also
 
-* [Modify: Delete/Edit/Move ](../Modify Designs/Modify Delete, Edit, Move.md)
-* [Modify: Extrude/Cut/Offset Face ](../Modify Designs/Modify Extrude, Cut-Offset Faces.md)
-* [Modify: Select Edge/Face ](../Modify Designs/Modify Select Edge-Face or Object.md)
-* [Modify: Scale/Rotate ](../Modify Designs/Modify Scale and Rotate.md)
-* [Modify: Tilt/Array/Copy/Paste ](../Modify Designs/Modify Tilt, Array, Copy-Paste.md)
-* [Modify: Boolean Operations ](../Modify Designs/Modify Boolean Operations.md)
+* [Modify: Delete/Edit/Move ](../../Modify Designs/Modify Delete, Edit, Move.md)
+* [Modify: Extrude/Cut/Offset Face ](../../Modify Designs/Modify Extrude, Cut-Offset Faces.md)
+* [Modify: Select Edge/Face ](../../Modify Designs/Modify Select Edge-Face or Object.md)
+* [Modify: Scale/Rotate ](../../Modify Designs/Modify Scale and Rotate.md)
+* [Modify: Tilt/Array/Copy/Paste ](../../Modify Designs/Modify Tilt, Array, Copy-Paste.md)
+* [Modify: Boolean Operations ](../../Modify Designs/Modify Boolean Operations.md)
 
   
 
 #### Topics in this section
 
-* [Import 3D Models and Images ](Import 3D Models and Images.md)
+* [Import 3D Models and Images ](../Import 3D Models and Images.md)
     
     Add overlays and images to your designs for a variety of purposes.
-* [Sketching Shapes](Sketching Shapes.md)
+* [Sketching Shapes](../Sketching Shapes.md)
     
     Use Lines, Arcs, Splines, Rectangles, and Circles to create shapes that you can combine into building designs.
-* [Place Primitives](Place Primitives.md)
+* [Place Primitives](../Place Primitives.md)
     
     Use pre-defined shapes as design building blocks.
 
