@@ -17,7 +17,7 @@ Use *[Scenes](Scenes.md) *to create saved view points.
 
 #### Topics in this section
 
-* [ Using Materials](GUID-32EAFEC0-BD06-4509-8F93-A57031521438.htm)
+* [ Using Materials](Using Materials/README.md)
     
     Enrich and enhance designs using Materials to add detail.
 * [Layers](Layers.md)
@@ -27,4 +27,3 @@ Use *[Scenes](Scenes.md) *to create saved view points.
     
     Use the scenes to create and navigate back to saved view points.
 
-[Please send us your comment about this page](#)

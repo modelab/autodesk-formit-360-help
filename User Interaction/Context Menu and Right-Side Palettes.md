@@ -25,4 +25,3 @@ The software's user interface makes use of a Context Menu and a Palette.
     | Use Collaboration to work simultaneously with others as you create designs.   |   ![](Images/GUID-E17BEBE7-6486-4302-BCE6-211C601AEAC6-low.png)   |
     | Use the Layers palette to create and modify layers. You can also add currently selected object(s) to a specific layer.   |   ![](Images/GUID-9E95DA19-0C90-47FD-B4E4-39716C331640-low.png)   |
     | Use the Scenes palette to create and modify scenes. Press play to cycle through all of the scenes in the current file in order.   |   ![](Images/GUID-5FB0624F-EA3A-46B2-A01E-A1C35A19C76F-low.png)   |
-[Please send us your comment about this page](#)

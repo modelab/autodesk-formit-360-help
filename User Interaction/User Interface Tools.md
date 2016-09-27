@@ -29,7 +29,7 @@ Reference for command interaction tools.
 * ![](Images/GUID-CF6A4EA8-13E8-4BFA-B0FA-76B01F51B364-low.png)Primitives: Click to bring up a menu of basic 3D shapes that you can place in your scene.
 * ![](Images/GUID-E44FD1BC-52E8-4515-B7DB-2697AF5F66A8-low.png)Advanced Tools: Click to use Boolean cut or join, cover, sweep, or loft operations.
 * ![](Images/GUID-703E56FE-819D-4A29-B086-301B024C60E1-low.png)Groups: Click to locate tools for grouping objects.
-* ![](Images/GUID-6F10FAB3-B960-418F-88DC-17E12E352986-low.png) Sun and Shadows: Use this tool to change the date and time of day to study shadows on your model. For more info on sun and shadows, see [Sun and Shadow Settings](GUID-E1FF3C3D-2A9F-4AF8-866C-CAED491DF6E3.htm). Launch Solar Analysis from within this panel.
+* ![](Images/GUID-6F10FAB3-B960-418F-88DC-17E12E352986-low.png) Sun and Shadows: Use this tool to change the date and time of day to study shadows on your model. For more info on sun and shadows, see [Sun and Shadow Settings](../../Building Performance/Sun and Shadow Settings.md). Launch Solar Analysis from within this panel.
 * ![](Images/GUID-F12CB419-C270-4B9C-B3C9-5E5B4099B168-low.png)Settings: Set application and sketch settings along with visual style and perform model diagnostics.
 * ![](Images/GUID-7EC051BA-7A0E-4049-A3D9-7860ECD98C86-low.png)Search for a location and import satellite imagery into your sketch. For more information on setting the location of your sketch.
 * ![](Images/GUID-4B5571DF-D3B2-4693-85FF-5BED468431BB-low.png)Energy Analysis: Click tp perform calculations on a building to determine its energy use.
@@ -47,4 +47,3 @@ The Palette Bar appears on the right side of the screen. Click one of these icon
 | ---- | ---- |
 | ![](Images/GUID-39317707-97A9-46F2-B8A4-76115959890F-low.png)   |   <br>*Properties*: Open this palette to view location, gross area, and floor area ratios for your sketch<br><br>*Materials*: Use this palette to create or apply materials<br><br>*Layers*: Create and Manage Layers and assign selected objects to different Layers<br><br>*Scenes*: Create, manage and play Scenes<br><br>*Levels*: Use this palette to display and add levels to your building objects<br><br>*Content Library*: Use the content library to store reusable content such as furniture<br><br>*Collaboration* (FormIt 360 Pro only): Use Collaboration to work simultaneously with others as you create designs<br>  |
 
-[Please send us your comment about this page](#)

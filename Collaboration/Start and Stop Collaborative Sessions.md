@@ -21,4 +21,3 @@ Share your work with others.
     A guest cannot end a sharing session.
     
     ![](Images/GUID-EF2ADF33-36F3-453C-924E-AB787C0349F0-low.png)
-[Please send us your comment about this page](#)

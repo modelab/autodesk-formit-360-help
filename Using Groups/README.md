@@ -22,24 +22,23 @@ You can create an array of objects from a single instance and select a check box
 
 #### Topics in this section
 
-* [Group/Ungroup Objects](GUID-A510EF1E-022E-4877-9B62-B3FE2A11A855.htm)
+* [Group/Ungroup Objects](Group-Ungroup Objects.md)
     
     Place geometry into clusters to allow easier manipulation.
-* [Edit Group](GUID-AB077755-51AD-4946-9267-734B9A841773.htm)
+* [Edit Group](Edit Group.md)
     
     Update or make changes to an existing group.
-* [Make Group Unique](GUID-FC26F60B-7434-4A43-9D37-8A99C48AD60C.htm)
+* [Make Group Unique](Make Group Unique.md)
     
     Copy a set of objects and then disconnect them from the original Group definition.
-* [Nest Groups](GUID-C5F54A5B-537A-4FBF-B856-088ECDB00C48.htm)
+* [Nest Groups](Nest Groups.md)
     
     Cluster like elements within a design.
-* [Scale a Group](GUID-96039233-5ACA-46B9-AA2E-95CCCE0F1FAF.htm)
+* [Scale a Group](Scale a Group.md)
     
     Scale a Group instance while maintaining the relationship to other instances
-* [Apply Levels and Materials to a Group ](GUID-652DD34D-CAAE-49EA-8022-BE593FB19509.htm)
+* [Apply Levels and Materials to a Group ](Apply Levels and Materials to a Group.md)
     
     A way to affect many objects at once.
-* [Group Axes and Work Planes](GUID-6271EF23-ACDD-4C3E-828A-F18848D7052A.htm)
+* [Group Axes and Work Planes](Group Axes and Work Planes.md)
 
-[Please send us your comment about this page](#)

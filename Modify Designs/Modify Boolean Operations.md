@@ -10,4 +10,3 @@ Use Join and Cut operations to alter objects.
 4. Then, select the subtract tool from the context menu.
 
 The intersection volume will be subtracted from the original object.
-[Please send us your comment about this page](#)

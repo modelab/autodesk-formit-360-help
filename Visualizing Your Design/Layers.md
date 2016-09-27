@@ -17,4 +17,4 @@ Use the layers to control the visibility of individual objects.
 2. To select all object(s) on the layer, click the selection icon next to the layer name
 3. To delete a layer, click the trash icon next to the layer name. Only the layer, not the objects assigned to the layer, will be deleted.
 
-![](Images/GUID-F61EED3A-A415-468F-A8B3-F4935ACA7697-low.png)[Please send us your comment about this page](#)
+![](Images/GUID-F61EED3A-A415-468F-A8B3-F4935ACA7697-low.png)
