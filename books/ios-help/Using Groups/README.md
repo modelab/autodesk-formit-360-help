@@ -18,23 +18,23 @@ Only certain elements of an object can be grouped: an entire object, a face, and
 
 #### Topics in this section
 
-* [Group/Ungroup Objects](Group-Ungroup Objects.md)
+* [Group/Ungroup Objects](../Group-Ungroup Objects.md)
     
     Place geometry into groups to allow easier manipulation, keep objects distinct from one another, and create parent/child relationships between objects
-* [Edit Group](Edit Group.md)
+* [Edit Group](../Edit Group.md)
     
     Update or make changes to an existing group.
-* [Nest Groups](Nest Groups.md)
+* [Nest Groups](../Nest Groups.md)
     
     Cluster like elements within a design.
-* [Scale a Group](Scale a Group.md)
+* [Scale a Group](../Scale a Group.md)
     
     Scale a Group instance while maintaining the relationship to other instances
-* [Make Group Unique](Make Group Unique.md)
+* [Make Group Unique](../Make Group Unique.md)
     
     Copy a set of objects and then disconnect them from the originals.
-* [Apply Levels and Materials to a Group ](Apply Levels and Materials to a Group.md)
+* [Apply Levels and Materials to a Group ](../Apply Levels and Materials to a Group.md)
     
     A way to affect many objects at once.
-* [Group Axes and Work Planes](Group Axes and Work Planes.md)
+* [Group Axes and Work Planes](../Group Axes and Work Planes.md)
 
