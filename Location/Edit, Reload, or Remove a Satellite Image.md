@@ -14,4 +14,3 @@ Make changes to your location images.
 3. Similar to other images, you can edit the name, transparency, and vertical order of satellite images. 
     
     ![](Images/GUID-023460E8-15CB-4931-AC05-346A47F57602-low.png)
-[Please send us your comment about this page](#)

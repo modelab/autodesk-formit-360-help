@@ -22,4 +22,3 @@ The software's user interface makes use of a particular platform's standard inte
 * Use the Content Library to link a Library from your local computer, or from A360 Drive. Then you can drag and drop content from the library into your FormIt 360 sketch. 
     
     ![](Images/GUID-F34F4C7A-70BD-4553-9B9B-CDB235C7BE21-low.png)
-[Please send us your comment about this page](#)

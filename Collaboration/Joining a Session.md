@@ -17,4 +17,3 @@ Become part of a collaboration.
 * When you are done collaborating, just Tap Leave Sharing Session.
 
 Please note if you leave a session as a guest collaborator, a copy of the sketch will NOT be saved to your A360 account.
-[Please send us your comment about this page](#)

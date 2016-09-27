@@ -11,17 +11,16 @@ Share and save your data in many formats.
 
 #### Topics in this section
 
-* [ Saving Your Work](GUID-04C24942-CCF9-427C-A661-0DE68F537886.htm)
+* [ Saving Your Work](Saving Your Work.md)
     
     Preserve your designs in multiple formats.
-* [ Content Libraries](GUID-8987522C-8505-4586-AF70-5BD8D81D36EF.htm)
+* [ Content Libraries](Content Libraries/README.md)
     
     Use a personal library of frequently used elements like furniture, building elements, or material base files.
-* [Revit Files](GUID-6B6D8ADF-22A2-4635-8B0C-510C566E907D.htm)
+* [Revit Files](Revit Files.md)
     
     Save your design in a format that Revit can open and use.
-* [FormIt 360 Converter](GUID-61C0A431-28F2-47F3-B225-92398859DC5A.htm)
+* [FormIt 360 Converter](FormIt 360 Converter.md)
     
     Convert files from other applications to use within FormIt 360
 
-[Please send us your comment about this page](#)

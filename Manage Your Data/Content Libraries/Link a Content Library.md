@@ -15,4 +15,3 @@ Access previously stored projects and site files.
     ![](Images/GUID-62836713-A92A-4276-9B51-2AE60D513F92-low.png)
 4. Browse with the file navigation dialog to your top-level content library folder.
 5. Choose a content file.
-[Please send us your comment about this page](#)

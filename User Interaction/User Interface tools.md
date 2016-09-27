@@ -24,4 +24,3 @@ Reference for command interaction tools.
 * ![](Images/GUID-94E05CFD-1805-485C-8332-E3F064917F65-low.png) Import Images and Models: Have content you want to import? Use this tool to add images and models you created with other programs.
 * ![](Images/GUID-0FD289AF-E305-498C-8EBB-6C1676E1AEBE-low.png)Share your work: Want to share your work with others? Email your sketch or even share with other nearby devices the AXM file of your work via AirDrop.
 * ![](Images/GUID-ED703137-B376-4A00-BB09-45C9547F6591-low.png)Need more help?: Use the information tools to learn more about FormIt 360.
-[Please send us your comment about this page](#)

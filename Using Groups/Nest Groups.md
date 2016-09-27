@@ -11,4 +11,3 @@ You can treat groups as container elements, within which other smaller groups li
 3. Select objects or faces that you want to add to a second group.
 4. Display the Context Menu and tap the Group icon.![](Images/GUID-E0A77424-2B7D-4E10-BB08-FC5C86C85295-low.png)
 5. Tap Done in the upper left corner.
-[Please send us your comment about this page](#)

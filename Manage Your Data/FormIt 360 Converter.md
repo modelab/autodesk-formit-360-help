@@ -44,4 +44,3 @@ If you choose to upload the files to A360 drive, you will be prompted to log int
 2. In the add-in, choose Reload Families
 3. Browse to a local directory that contains RFA files that correspond to converted FormIt 360 content
 4. The add-in will proceed to replace any of the families with the correct families it finds in the selected directory
-[Please send us your comment about this page](#)

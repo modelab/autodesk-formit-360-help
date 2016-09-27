@@ -17,4 +17,3 @@ If you use the Search window, choose the location from the list offered.
     ![](Images/GUID-9D98799F-8780-4B59-95B6-F9DC6137BFF2-low.png)
 4. Zoom in or out to get the proper orientation.
 5. Tap Finish Importing to complete the operation.
-[Please send us your comment about this page](#)

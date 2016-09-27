@@ -17,14 +17,13 @@ NoteYou can also drag and drop an OBJ or AXM file from your system onto your can
 
 #### Topics in this section
 
-* [Set a Location](GUID-5D5BFC68-2A9D-4CFA-9180-FB73C9C12EF1.htm)
+* [Set a Location](Set a Location.md)
     
     Establish a geographic location for your sketch.
-* [Satellite Image Import](GUID-BC676A7A-0A3E-4F6F-9551-782EDE7061DE.htm)
+* [Satellite Image Import](Satellite Image Import.md)
     
     Add detail and realism to your design.
-* [Edit, Reload, or Remove a Satellite Image](GUID-9527A4A4-1BAF-46E9-91EA-2A638549D3B6.htm)
+* [Edit, Reload, or Remove a Satellite Image](Edit, Reload, or Remove a Satellite Image.md)
     
     Make changes to your location images.
 
-[Please send us your comment about this page](#)

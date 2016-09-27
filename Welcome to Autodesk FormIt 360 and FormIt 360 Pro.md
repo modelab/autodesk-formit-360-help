@@ -12,4 +12,3 @@ Use Autodesk ®  FormIt ®  360 to capture building design concepts when ideas o
 * Contextual Menu 
     
     ![](Images/GUID-CD1BF99B-8D4D-4F82-833C-BF7F8B243BDD-low.png)
-[Please send us your comment about this page](#)

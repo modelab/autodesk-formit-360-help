@@ -24,20 +24,19 @@ In addition to simultaneous collaboration through shared sessions, you can share
 
 #### See Also
 
-* [Saving Your Work ](GUID-04C24942-CCF9-427C-A661-0DE68F537886.htm)
+* [Saving Your Work ](../Manage Your Data/Saving Your Work.md)
 
   
 
 #### Topics in this section
 
-* [Start and Stop Collaborative Sessions](GUID-BD372988-3F7D-46FF-BCDF-99B4252C036B.htm)
+* [Start and Stop Collaborative Sessions](Start and Stop Collaborative Sessions.md)
     
     Invite other people to work on the same design project.
-* [Joining a Session](GUID-BE824C85-59A9-44FD-8EE3-DED3BF943621.htm)
+* [Joining a Session](Joining a Session.md)
     
     Become part of a collaboration.
-* [Chat with Collaborators ](GUID-E02EF98E-ACF9-4E06-AB1D-BE97EA9A1AFD.htm)
+* [Chat with Collaborators ](Chat with Collaborators.md)
     
     Engage in dialog as you design.
 
-[Please send us your comment about this page](#)
