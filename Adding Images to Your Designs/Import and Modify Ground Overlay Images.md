@@ -21,4 +21,3 @@ Your image will be automatically imported into the canvas.
 3. Drag and Drop using the Vertical Order panel to organize the placement (order) of all the ground overlay images, including any imported satellite imagery. 
     
     ![](Images/GUID-5A916F7D-CD16-4BB9-B2C4-6196393FA7EA-low.png)
-[Please send us your comment about this page](#)

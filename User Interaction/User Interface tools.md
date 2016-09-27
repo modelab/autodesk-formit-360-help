@@ -15,4 +15,3 @@ Reference for command interaction tools.
 * ![](Images/GUID-1F72E92D-1BAC-43AD-B79D-7EBD0D25D755-low.png)Set the Location: Search for a location and import satellite imagery into your sketch. For more information on setting the location of your sketch.
 * ![](Images/GUID-F5D1DC8D-5B94-4253-8EC5-038643E6B801-low.png)Snaps: Toggle on/off snapping to the grid.
 * ![](Images/GUID-71C0DE54-D502-4A81-BAF0-3D8C6B54CB19-low.png)Share Your Work: Import images or save and email images.
-[Please send us your comment about this page](#)

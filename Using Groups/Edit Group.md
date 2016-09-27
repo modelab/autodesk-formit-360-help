@@ -12,4 +12,3 @@ NoteLevels cannot be applied in Edit Group mode.
 4. When you complete your edits, tap Done in the upper left corner. 
     
     ![](Images/GUID-021DA756-41A1-4D1D-9950-0F703A002E34-low.png)
-[Please send us your comment about this page](#)

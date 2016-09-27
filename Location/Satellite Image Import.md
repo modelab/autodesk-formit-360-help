@@ -27,4 +27,3 @@ Satellite images and weather station data add important information to your desi
 2. Tap the X in the upper right corner to dismiss the weather station display.
 
 ![](Images/GUID-60F40397-82ED-4763-99D9-5CD765F57A01-low.png)
-[Please send us your comment about this page](#)

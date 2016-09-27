@@ -22,4 +22,3 @@ NoteLevels cannot be applied in Edit Group mode.
     
     ![](Images/GUID-C78B0EE4-EC83-41EC-90F6-7BD0CE4B498B-low.png)
 5. Tap Done.
-[Please send us your comment about this page](#)

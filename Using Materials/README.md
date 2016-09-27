@@ -27,8 +27,7 @@ When applied to the sketch, materials will be added to a list of already used ma
 
 #### Topics in this section
 
-* [Create, Edit, and Apply a Material](GUID-453FE4F3-114C-461B-B90C-B3CFD5095628.htm)
+* [Create, Edit, and Apply a Material](Create, Edit, and Apply a Material.md)
     
     Use the Material Editor to place a material on an object or a selected object face.
 
-[Please send us your comment about this page](#)

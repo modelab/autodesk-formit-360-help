@@ -38,4 +38,3 @@ Automatic selection of inference points is always enabled and will help you cons
     ![](Images/GUID-BDDC9043-3E81-4B5F-8219-749BBD6689DE-low.png)
 
 Extending from a point: You can also use inferences to extend from a point reference. Hover the mouse over a point you want to use as a reference until the tooltip appears, then use the inference axis that extends from the point.
-[Please send us your comment about this page](#)

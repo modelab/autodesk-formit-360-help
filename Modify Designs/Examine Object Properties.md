@@ -11,4 +11,3 @@ View or change a building object's name or its volume/area and level values.
 3. To automatically update the Gross Area and Floor Area Ratio for the entire sketch, turn on the Area by Level toggle for each object. 
     
     ![](Images/GUID-BBAAFEE8-767B-4F46-8068-FFAE22514E44-low.png)
-[Please send us your comment about this page](#)

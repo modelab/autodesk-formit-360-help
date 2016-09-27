@@ -17,4 +17,3 @@ Locate the tools to create and place designs.
 ### Object/Materials Palette
 
 * The palette on the right side of the screen accesses the Building Program, Properties, and Materials tabs.![](Images/GUID-57AB508D-FA7D-4203-8635-076D93CF1866-low.png)
-[Please send us your comment about this page](#)

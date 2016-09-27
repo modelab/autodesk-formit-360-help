@@ -22,4 +22,3 @@ Visit the[ FormIt 360 YouTube Channel](https://www.youtube.com/channel/UCdZJr6Bo
 * Contextual Menu 
     
     ![](Images/GUID-B8651506-5422-43F8-9B09-5E9EDEA3A116-low.png)
-[Please send us your comment about this page](#)

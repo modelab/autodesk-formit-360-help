@@ -32,4 +32,3 @@ Tablets let you choose between swatches and a color wheel.
 Load an image from a file, or even take a photo with a tablet.
 
 1. Choose a color for the material.
-[Please send us your comment about this page](#)

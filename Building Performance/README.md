@@ -13,18 +13,17 @@ Start a BIM workflow by evaluating the performance of elements from the beginnin
 
 #### See Also
 
-* [Examine Object Properties ](GUID-D349045A-AA6C-41A5-B251-7316DE7AE1F1.htm)
-* [Levels and Volume ](GUID-9F5048B8-6393-4846-A206-C84B0BFFBC8A.htm)
+* [Examine Object Properties ](../Modify Designs/Examine Object Properties.md)
+* [Levels and Volume ](../Levels and Space Usage.md)
 
   
 
 #### Topics in this section
 
-* [ Sun and Shadow Settings ](GUID-74F86EE6-E023-42D7-8557-7F2E8B9E1998.htm)
+* [ Sun and Shadow Settings ](Sun and Shadow Settings.md)
     
     Control the angle of the shadows at your locations by setting date and time.
-* [Solar Analysis](GUID-A9141831-C8D5-41D9-A1F0-AED0ED840B22.htm)
+* [Solar Analysis](Solar Analysis.md)
     
     Visualize the amount of solar radiation that your model receives.
 
-[Please send us your comment about this page](#)
