@@ -5,8 +5,6 @@ var path = require('path');
 
 const ENCODING = 'utf8';
 
-// Force webhook
-
 // Revert all local changes 
 // so that we can append the sub-summary files to the root summary file
 
@@ -32,7 +30,7 @@ var poundRegex = /#\ /g;
 var dashRegex = /\-\ /g;
 var starRegex = /\*\ /g;
 var linkRegex = /\]\(/g;
-var blanklineRegex = /\n\s*\n/g
+var blanklineRegex = /\n\s*\n/g;
 
 // Parse each submodule's summary file and append to root summary file
 for (var i = 0; i < books.length; i++) {
