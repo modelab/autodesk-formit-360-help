@@ -13,10 +13,10 @@ Modify application-wide and sketch-specific settings to change how the app and i
 
 #### Topics in this section
 
-* [Sketch Settings ](Sketch Settings.md)
+* [Sketch Settings ](../Sketch Settings.md)
     
     Change sketch-specific settings to change how the current sketch appears and behaves.
-* [Application Settings](Application Settings.md)
+* [Application Settings](../Application Settings.md)
     
     Modify application-wide settings to change how the entire FormIt 360 app appears and behaves.
 
