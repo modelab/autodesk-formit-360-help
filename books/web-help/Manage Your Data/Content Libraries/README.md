@@ -15,11 +15,10 @@ If you have linked your library locally, and then start a new FormIt web session
 
 #### Topics in this section
 
-* [Link a Content Library](GUID-CBCF65BB-6F26-4143-9946-E1E233E03228.htm)
+* [Link a Content Library](Link a Content Library.md)
     
     Access previously stored projects and site files.
-* [Place Content ](GUID-B9ADECEB-8923-48D2-8CC4-EB59782E9C51.htm)
+* [Place Content ](Place Content.md)
     
     Use the data from a content library file in a design.
 
-[Please send us your comment about this page](#)

@@ -15,14 +15,13 @@ The Material Editor is located in the right-side palette. In the Editor, you can
 
 #### Topics in this section
 
-* [Create a Material](GUID-90AAD61A-4DD6-4E9F-B99D-635DC7C563B0.htm)
+* [Create a Material](Create a Material.md)
     
     Use the Material Editor to create new materials to use in your scene.
-* [Edit a Material](GUID-662F331F-F73B-4BC7-B659-B76DAE0581AC.htm)
+* [Edit a Material](Edit a Material.md)
     
     Use the Material Editor to make materials appear exactly as you want.
-* [Apply a Material](GUID-BD42BB74-22BE-426E-AF9D-3524E65DC732.htm)
+* [Apply a Material](Apply a Material.md)
     
     Use the Material Editor to place a material on an object or a selected object face.
 
-[Please send us your comment about this page](#)

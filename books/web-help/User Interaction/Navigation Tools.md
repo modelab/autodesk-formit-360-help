@@ -49,4 +49,3 @@ Key tools for moving around the design area.
 | Look Around   |   Mouse point to where you want to look   |
 | Exit   |   Press esc to exit Fly-through mode   |
 
-[Please send us your comment about this page](#)

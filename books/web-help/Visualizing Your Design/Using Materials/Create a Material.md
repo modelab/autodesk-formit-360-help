@@ -19,7 +19,6 @@ If you have purchased the optional [FormIt 360 Pro Subscription](http://www.auto
 
 1. Click Import Material from the Material Palette.
 2. From the Import Material, browse or search by name to select a material to import into the scene and click OK.
-3. The material can now be [applied](../Apply a Material.md) or [edited](GUID-662F331F-F73B-4BC7-B659-B76DAE0581AC.htm) like any other material.
+3. The material can now be [applied](../Apply a Material.md) or [edited](../Edit a Material.md) like any other material.
 
 ![](Images/GUID-11B4AA4F-C534-48DA-AAA8-292D07E366F3-low.jpg)
-[Please send us your comment about this page](#)

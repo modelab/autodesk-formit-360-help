@@ -18,4 +18,3 @@ Save files to your A360 drive or to local storage
     * Image saves the current view as a PNG without the user interface components
 
 3. Choose whether you want to export All objects, visible objects, or just the currently selected objects
-[Please send us your comment about this page](#)
