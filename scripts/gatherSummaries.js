@@ -5,7 +5,7 @@ var path = require('path');
 
 const ENCODING = 'utf8';
 
-// Force Webhook
+// Force webhook
 
 // Revert all local changes 
 // so that we can append the sub-summary files to the root summary file
@@ -18,7 +18,7 @@ var readmeFile = '/README.md';
 
 var summary_template = 'SUMMARY_TEMPLATE.md';
 
-var template = fs.readFileSync(rootDir + summary_template, ENCODING)
+var template = fs.readFileSync(rootDir + summary_template, ENCODING);
 fs.writeFileSync(rootDir + 'SUMMARY.md', template);
 
 var booksDir = 'books/';
