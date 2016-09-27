@@ -13,14 +13,13 @@ To maximize the functionality of your designs, you should define the geographic 
 
 #### Topics in this section
 
-* [Set a Location](GUID-DF9BA79B-4F98-496C-B9D2-6DEE87ED1C93.htm)
+* [Set a Location](Set a Location.md)
     
     Establish a geographic location for your sketch.
-* [Satellite Image Import](GUID-FF291BD4-5798-46C6-9EE0-5BCC6E2DC69A.htm)
+* [Satellite Image Import](Satellite Image Import.md)
     
     Add detail and realism to your design.
-* [Edit, Reload, or Remove a Satellite Image](GUID-5DA30CED-DF86-47F8-B23B-E6173424460E.htm)
+* [Edit, Reload, or Remove a Satellite Image](Edit, Reload, or Remove a Satellite Image.md)
     
     Make changes to your location images.
 
-[Please send us your comment about this page](#)

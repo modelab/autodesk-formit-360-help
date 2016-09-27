@@ -15,17 +15,16 @@ The software's user interface makes use of a particular platform's standard inte
 
 #### Topics in this section
 
-* [Context Menu and Palette](GUID-95EF5146-980B-4D80-97C4-E8131603A75F.htm)
+* [Context Menu and Palette](Context Menu and Palette.md)
     
     Locate the tools to create and place designs.
-* [User Interface tools ](GUID-F944C89E-C229-44E4-A311-87092612F8B6.htm)
+* [User Interface tools ](User Interface tools.md)
     
     Reference for command interaction tools.
-* [Project Information Reference ](GUID-F95FF498-3063-4EE2-91FA-2D897AD85DA6.htm)
+* [Project Information Reference ](Project Information Reference.md)
     
     Name your design and keep track of its status.
-* [ Gestures](GUID-B2CB3033-65A5-4D58-AF8C-75FC026A8288.htm)
+* [ Gestures](Gestures.md)
     
     Use these movements to engage the user interface.
 
-[Please send us your comment about this page](#)

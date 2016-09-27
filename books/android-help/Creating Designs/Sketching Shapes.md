@@ -29,4 +29,3 @@ After selecting a drawing tool, you can hover anywhere on the canvas to use snap
 
 ![](Images/GUID-1193F05F-06CC-4415-A8E8-809D5824D25D-low.png) 
 1. After selecting the circle tool, you can tap anywhere on the canvas and drag your finger to use snaps and inferencing. Once you are ready to place the midpoint of the rectangle, lift your finger. To specify the radius of the circle, you will need to drag from the midpoint. ![](Images/GUID-549C99ED-FF63-4A16-93D8-160290411B45-low.png)
-[Please send us your comment about this page](#)

@@ -10,8 +10,7 @@ Choose the appearance style that best suits your purpose.
 
 #### Topics in this section
 
-* [Visual Format Options ](GUID-83201191-789C-4173-BBCC-B1860C9B221C.htm)
+* [Visual Format Options ](Visual Format Options.md)
     
     Description of choices for visual style.
 
-[Please send us your comment about this page](#)

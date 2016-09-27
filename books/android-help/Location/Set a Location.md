@@ -15,4 +15,3 @@ Establish a geographic location for your sketch.
 5. Tap Finish Import. 
     
     ![](Images/GUID-CCE8DC36-2419-43E1-9FDB-90D48F517EA3-low.png)
-[Please send us your comment about this page](#)

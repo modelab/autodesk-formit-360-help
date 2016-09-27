@@ -15,8 +15,7 @@ Vertical Order provides a way to stack overlays according to your needs.
 
 #### Topics in this section
 
-* [Import and Modify Ground Overlay Images](GUID-24D4EF6A-EACD-43B2-A0B4-424E684B68B9.htm)
+* [Import and Modify Ground Overlay Images](Import and Modify Ground Overlay Images.md)
     
     Acquire images for your design canvas and alter them if desired.
 
-[Please send us your comment about this page](#)

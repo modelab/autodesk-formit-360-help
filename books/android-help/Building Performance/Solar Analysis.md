@@ -22,4 +22,3 @@ Autodesk FormIt Pro Only
 7. Tap Done to finish. 
     
     ![](Images/GUID-B7AFB8B3-8686-4FBE-A24D-366FCEAE4114-low.png)
-[Please send us your comment about this page](#)

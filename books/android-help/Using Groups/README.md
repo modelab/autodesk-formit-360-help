@@ -18,24 +18,23 @@ NoteLevels cannot be applied in Edit Group mode.
 
 #### Topics in this section
 
-* [Group/Ungroup Objects](GUID-B10198F4-FE04-4879-AC95-B624538C637C.htm)
+* [Group/Ungroup Objects](Group-Ungroup Objects.md)
     
     Place geometry into clusters to allow easier manipulation.
-* [Edit Group](GUID-5FA7728D-6B3B-432D-969E-E9649CC64B58.htm)
+* [Edit Group](Edit Group.md)
     
     Update or make changes to an existing group.
-* [Nest Groups](GUID-8A7A54A8-5762-4E15-8C0F-E9DE0E48139C.htm)
+* [Nest Groups](Nest Groups.md)
     
     Cluster like elements within a design.
-* [Scale a Group](GUID-223B6926-8F65-4D34-84DE-65643044056A.htm)
+* [Scale a Group](Scale a Group.md)
     
     Scale a Group instance while maintaining the relationship to other instances
-* [Make Group Unique](GUID-9B8C7589-BFB1-41C9-B0B8-511216F87225.htm)
+* [Make Group Unique](Make Group Unique.md)
     
     Copy a set of objects and then disconnect them from the originals.
-* [Apply Levels and Materials to a Group ](GUID-CC3C5ACF-F728-4F27-94E9-D64582BEF553.htm)
+* [Apply Levels and Materials to a Group ](Apply Levels and Materials to a Group.md)
     
     A way to affect many objects at once.
-* [Group Axes and Work Planes](GUID-EB89CB85-69F2-4631-BDC8-A7AA697C48C3.htm)
+* [Group Axes and Work Planes](Group Axes and Work Planes.md)
 
-[Please send us your comment about this page](#)

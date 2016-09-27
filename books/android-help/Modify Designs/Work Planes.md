@@ -14,4 +14,3 @@ Rotate the world axes to the plane of another object in the sketch. This will al
 If you do not see the grid lines then you need to turn them on to benefit from work plane based sketching ( ![](Images/GUID-EF63FC70-D867-4AE3-A75D-90E067806571-low.png) > Display Grid )
 
 ![](Images/GUID-CCDC46EF-8523-430C-8B6E-074D6D5236E1-low.gif)
-[Please send us your comment about this page](#)

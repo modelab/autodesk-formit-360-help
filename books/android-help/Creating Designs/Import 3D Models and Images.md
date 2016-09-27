@@ -20,4 +20,4 @@ You will have the option to scale and crop your image. Your image will then be i
 Edit the image's name and transparency, if needed. Manage the vertical ordering of various ground overlays including any satellite image.
 
 * You can import geometry from your local file system using OBJ or AXM formats. Just tap on the import icon from the toolbar and choose Import 3D Model.
-NoteYou can also drag and drop an OBJ or AXM file from your system onto your canvas.[Please send us your comment about this page](#)
+NoteYou can also drag and drop an OBJ or AXM file from your system onto your canvas.

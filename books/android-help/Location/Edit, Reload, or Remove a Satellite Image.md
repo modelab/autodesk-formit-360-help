@@ -19,4 +19,3 @@ Make changes to your location images.
     Change the image name, its transparency, or its place in the vertical order.
     
     ![](Images/GUID-201E4CD8-4BF4-4E10-8632-DDF8585B1767-low.png)
-[Please send us your comment about this page](#)

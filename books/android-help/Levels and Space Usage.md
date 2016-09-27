@@ -20,4 +20,3 @@ Open the right-side palette to the Building Properties tab to view or edit the p
 * Once the Building Area in the top left widgets panel is set, the Gross Area and Floor Area Ratio will automatically update for the entire sketch. To activate this feature and add individual elements to these figures, the Area by Level toggle found under Properties must be enabled on each object. 
     
     ![](Images/GUID-BBAAFEE8-767B-4F46-8068-FFAE22514E44-low.png)
-[Please send us your comment about this page](#)

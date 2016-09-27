@@ -32,14 +32,13 @@ To create more complex designs after sketching a shape or placing a primitive, y
 
 #### Topics in this section
 
-* [Import 3D Models and Images ](GUID-6B390A42-5271-4BE1-9671-E3444CA14313.htm)
+* [Import 3D Models and Images ](Import 3D Models and Images.md)
     
     Add overlays and images to your designs for a variety of purposes.
-* [Sketching Shapes](GUID-85C7BAD9-9D65-4C08-82A8-15B6E2A0C890.htm)
+* [Sketching Shapes](Sketching Shapes.md)
     
     Use Lines, Arcs, Splines, Rectangles, and Circles to create shapes that you can combine into building designs.
-* [Place Primitives](GUID-D5DEE8CC-B70B-4318-B6F8-87A4DAE6B578.htm)
+* [Place Primitives](Place Primitives.md)
     
     Use pre-defined shapes as design building blocks.
 
-[Please send us your comment about this page](#)
