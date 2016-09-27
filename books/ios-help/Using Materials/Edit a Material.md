@@ -17,4 +17,3 @@ The texture, color, and other properties of Materials can be modified in the Mat
     * *Texture*:Textures are images loaded from your Photo Library or camera. Once imported, you can crop, and edit the horizontal and vertical scale of the texture.
     * *Color*: When a material has both texture and color, the two are multiplied together.
 5. Click OK to save the changes to the material.
-[Please send us your comment about this page](#)

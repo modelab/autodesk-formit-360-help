@@ -23,4 +23,3 @@ Open the right-side palette to the Properties tab to view or edit the properties
 * As you add geometry, the Gross Area and Floor Area Ratio will automatically update for the entire sketch. To activate this feature and add individual elements to these figures, the Area by Level toggle must be enabled on each object. 
     
     ![](Images/GUID-6AF1DFC5-77D0-4AE2-8BA1-74E41A67F5EF-low.png)
-[Please send us your comment about this page](#)

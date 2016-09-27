@@ -13,4 +13,3 @@ Place geometry into groups to allow easier manipulation, keep objects distinct f
 #### Ungroup Objects
 
 1. To ungroup an already grouped set of selected objects, tap the Ungroup icon.![](Images/GUID-5CCA5633-E2DA-42A9-BD53-ED3D3E053650-low.png)
-[Please send us your comment about this page](#)

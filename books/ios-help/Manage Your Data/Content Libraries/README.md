@@ -25,11 +25,10 @@ You can edit the geometry of placed content, but the changes cannot be migrated 
 
 #### Topics in this section
 
-* [Link a Content Library](GUID-A1676CC8-A9EA-42D6-8CFF-CE13D47021DC.htm)
+* [Link a Content Library](Link a Content Library.md)
     
     Access previously stored projects and site files.
-* [Place Content ](GUID-55DEA3FD-856E-47B7-87E2-5F0ED3128954.htm)
+* [Place Content ](Place Content.md)
     
     Use the data from a content library file in a design.
 
-[Please send us your comment about this page](#)

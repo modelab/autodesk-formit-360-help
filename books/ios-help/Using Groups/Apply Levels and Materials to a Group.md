@@ -22,4 +22,3 @@ A way to affect many objects at once.
     
     ![](Images/GUID-6F006B5D-540C-46B4-9EB7-4BA1B7C9CBC3-low.png)
 5. Tap Done.
-[Please send us your comment about this page](#)

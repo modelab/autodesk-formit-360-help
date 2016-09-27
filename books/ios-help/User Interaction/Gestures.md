@@ -25,4 +25,3 @@ Use these movements to engage the user interface.
 | Extrude Shapes   |   Tap to select a face, and then drag your finger up or down.   |   ![](Images/GUID-A84A7DBB-E3EF-4130-AFDF-0E9CD1BA5512-low.png)   |
 | Place a Primitive   |  Tap on primitive from action bar, then tap-drag-lift to place an object.   |   ![](Images/GUID-08D9B90C-BE55-4596-BFFB-3436E9D2A939-low.png)   |
 
-[Please send us your comment about this page](#)

@@ -22,4 +22,3 @@ The Energy Analysis Dashboard is now filled with a number of Factor Widgets.
 When you open a Factor Widget, you can vary the factors to see how it affects the Energy Cost Mean.
 
 ![](Images/GUID-3E6202EB-6402-4C51-877A-76363729359A-low.png)
-[Please send us your comment about this page](#)

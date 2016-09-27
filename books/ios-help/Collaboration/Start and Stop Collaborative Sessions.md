@@ -21,4 +21,3 @@ NoteFormIt 360 Pro only.
     A guest cannot end a sharing session.
     
     ![](Images/GUID-0DCB0BBE-5849-4259-B157-38B044C7FCA7-low.png)
-[Please send us your comment about this page](#)

@@ -26,25 +26,24 @@ To create more complex designs after sketching a shape or placing a primitive, y
 
 #### See Also
 
-* [Modify: Delete/Edit/Move ](GUID-F44A60C1-81A3-4503-ABCC-8BFDFF69821E.htm)
-* [Modify: Extrude/Cut/Offset Face ](GUID-5E8DE07B-FD96-4BAE-8453-8AA4E5DFAD59.htm)
-* [Modify: Select Edge/Face ](GUID-E4C3BC1E-CA94-4CB9-BEB2-BC67947E9266.htm)
-* [Modify: Scale/Rotate ](GUID-6644BA4C-9FD2-493B-91A2-689F0EA391AA.htm)
-* [Modify: Tilt/Array/Copy/Paste ](GUID-F11AF77F-E8DB-4C4B-A1A9-9E00821BE236.htm)
-* [Modify: Boolean Operations ](GUID-4A0EBA07-8236-494C-906C-03505C3477CA.htm)
+* [Modify: Delete/Edit/Move ](../Modify Designs/Modify Delete, Edit, Move.md)
+* [Modify: Extrude/Cut/Offset Face ](../Modify Designs/Modify Extrude, Cut-Offset Faces.md)
+* [Modify: Select Edge/Face ](../Modify Designs/Modify Select Edge-Face or Object.md)
+* [Modify: Scale/Rotate ](../Modify Designs/Modify Scale and Rotate.md)
+* [Modify: Tilt/Array/Copy/Paste ](../Modify Designs/Modify Tilt, Array, Copy-Paste.md)
+* [Modify: Boolean Operations ](../Modify Designs/Modify Boolean Operations.md)
 
   
 
 #### Topics in this section
 
-* [Import 3D Models and Images ](GUID-F33DBCF7-E558-4007-815C-A1C9612E052B.htm)
+* [Import 3D Models and Images ](Import 3D Models and Images.md)
     
     Add overlays and images to your designs for a variety of purposes.
-* [Sketching Shapes](GUID-2724F3E1-2783-4144-9AD8-A088434E26BD.htm)
+* [Sketching Shapes](Sketching Shapes.md)
     
     Use Lines, Arcs, Splines, Rectangles, and Circles to create shapes that you can combine into building designs.
-* [Place Primitives](GUID-297E2E05-16F6-41FB-A682-83D065126F70.htm)
+* [Place Primitives](Place Primitives.md)
     
     Use pre-defined shapes as design building blocks.
 
-[Please send us your comment about this page](#)

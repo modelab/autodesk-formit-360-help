@@ -12,4 +12,3 @@ Update or make changes to an existing group.
 4. When you complete your edits, tap Done in the upper left corner. 
     
     ![](Images/GUID-5C1FF4F8-0EEC-420B-8E86-FDC090905F42-low.png)
-[Please send us your comment about this page](#)

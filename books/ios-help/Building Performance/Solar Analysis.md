@@ -24,4 +24,3 @@ Autodesk FormIt Pro Only
     
     ![](Images/GUID-953718EC-2C8F-41D6-B3ED-5CC9078443A4-low.png)
 7. Tap Exit to finish.
-[Please send us your comment about this page](#)

@@ -34,4 +34,3 @@ If you have purchased the optional [FormIt 360 Pro Subscription](http://www.auto
 
 
 ![](Images/GUID-636582A1-68FB-4DC2-8442-FD394394AFB6-low.png)
-[Please send us your comment about this page](#)
