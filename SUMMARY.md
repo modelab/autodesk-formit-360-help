@@ -49,6 +49,8 @@
       * [Saving Your Work](books/android-help/Manage Your Data/Saving Your Work.md)
       * [Revit Files](books/android-help/Manage Your Data/Revit Files.md)
     * [FormIt 360 Converter](books/android-help/FormIt 360 Converter.md)
+  - [Summary](books/desktop-help/README.md)
+    * [About](books/desktop-help/sample.md/sample)
   - [iOS Help](books/ios-help/README.md)
     * [Welcome to Autodesk FormIt 360 and FormIt 360 Pro](books/ios-help/Welcome to Autodesk FormIt 360 and FormIt 360 Pro.md)
     - [User Interaction](books/ios-help/User Interaction/README.md)
