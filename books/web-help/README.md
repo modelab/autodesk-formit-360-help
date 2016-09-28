@@ -1,1 +1,1 @@
-This book was generated automatically by Mode Lab.
+Mode Lab generated this book automatically.
