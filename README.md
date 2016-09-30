@@ -1,1 +1,1 @@
-Mode Lab generated this book automatically.
+Mode Lab generated this book automatically. This is generated for Web content.
