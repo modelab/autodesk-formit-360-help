@@ -1,3 +1,10 @@
 {
-    "plugins": ["-search", "contextual-search@https://github.com/jrwells/gitbook-plugin-contextual-search", "toggle-chapters"]
+    "title": "FormIt Help",
+    "plugins": [
+    	"-lunr", 
+    	"-search", 
+    	"lunr-depth@https://github.com/jrwells/gitbook-plugin-lunr-depth", 
+    	"contextual-search@https://github.com/jrwells/gitbook-plugin-contextual-search", 
+    	"toggle-chapters"
+    ]
 }
